@@ -1,6 +1,6 @@
 ## Hi World! I'm Muhammad Fanny Adinata 👋
 
-!(img/relyo.png)
+![header](img/relyo.png)
 
 
 #### My Skills
